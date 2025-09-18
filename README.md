@@ -42,7 +42,7 @@ Driven by faith and guided by the Holy Spirit, I create technology solutions and
 
 ## 📫 Let’s Connect  
 - 💼 [LinkedIn](#) *()*  
-- 🐦 [Twitter](#) *(https://x.com/moughkaa46415?s=09)*  [Instagram](https://www.instagram.com/your-link)  
+- 🐦 [Twitter](#) *(https://x.com/moughkaa46415?s=09)*  [Instagram](https://www.instagram.com/solomough3?igsh=cGJ1d3JtYzh5M3Ay)  
 
 - 🌍 [Portfolio Website](#) *(coming soon)*  
 
