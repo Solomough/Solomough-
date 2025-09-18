@@ -1,11 +1,9 @@
-# 👋 Hey, I’m **Solomough**
+# 👋 Hello, I’m Solomon Moughkaa (Solomough)
 
-🌟 *Out of Darkness to Light*  
+> Embracing divine purpose, I illuminate paths to success and spiritual growth.  
 
-💡 Embracing divine purpose, I illuminate paths to success and spiritual growth.  
-As a vessel for God’s wisdom, I share insights and expertise to empower individuals on their journey towards enlightenment.  
-With a passion for serving and guiding, I’m building impactful tech solutions while inspiring others through faith and knowledge.  
-
+I am a **Software Engineer 🚀 | Web, AI & Web3 Enthusiast | Writer ✍️ | Kingdom Strategist ✝️**  
+Driven by faith and guided by the Holy Spirit, I create technology solutions and share insights to empower individuals and communities worldwide.
 ---
 
 ## 🚀 What I Do  
@@ -44,10 +42,14 @@ With a passion for serving and guiding, I’m building impactful tech solutions 
 
 ## 📫 Let’s Connect  
 - 💼 [LinkedIn](#) *()*  
-- 🐦 [Twitter](#) *(https://x.com/moughkaa46415?s=09)*  
+- 🐦 [Twitter](#) *(https://x.com/moughkaa46415?s=09)*  [Instagram](https://www.instagram.com/your-link)  
+
 - 🌍 [Portfolio Website](#) *(coming soon)*  
 
 ---
+
+### ⚡ Fun fact:
+I love photography, storytelling, and sharing Kingdom insights through creative digital experiences.
 
 ✨ *“I can do all things through Christ who strengthens me.”*  
 Together, let’s build solutions that matter.
