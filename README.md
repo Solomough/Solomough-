@@ -23,6 +23,16 @@ Visionary • Teacher • Influencer — a software engineer building at the int
 
 ---
 
+## 🛠 Tech Stack  
+**Languages:** JavaScript, Python, Solidity (in progress)  
+**Frameworks:** React, Node.js, Express  
+**Databases:** MongoDB, PostgreSQL  
+**Other Tools:** Git, TailwindCSS, Framer Motion  
+
+---
+
+---
+
 ## 🌱 What I Build
 - Full-stack web apps (React, Next.js)  
 - AI-driven learning tools (LLMs, vector search)  
