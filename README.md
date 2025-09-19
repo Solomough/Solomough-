@@ -33,8 +33,8 @@ Visionary • Teacher • Influencer — a software engineer building at the int
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Your-username&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Your-username&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Solomon Moughkaa Zahemen &show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solomon Moughkaa Zahemen &layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
