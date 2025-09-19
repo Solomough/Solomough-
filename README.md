@@ -1,55 +1,47 @@
-# 👋 Hello, I’m Solomon Moughkaa (Solomough)
+<!-- Profile README for Solomough / SolomonMoughkaa -->
 
-> Embracing divine purpose, I illuminate paths to success and spiritual growth.  
+<h1 align="center">👋 Hey, I'm Solomon Moughkaa Zahemen (Solomough)</h1>
 
-I am a **Software Engineer 🚀 | Web, AI & Web3 Enthusiast | Writer ✍️ | Kingdom Strategist ✝️**  
-Driven by faith and guided by the Holy Spirit, I create technology solutions and share insights to empower individuals and communities worldwide.
----
-
-## 🚀 What I Do  
-- 🌐 Build **modern web applications** (React, Node.js, MongoDB, Tailwind, Framer Motion).  
-- 🪙 Exploring **Web3 & Blockchain** (DApps, smart contracts, crypto payments).  
-- 🤖 Experimenting with **AI & Automation** (chatbots, study assistants, creative tools).  
-- ✝️ Integrating **faith + tech** to bring light and empowerment to the world.  
+<p align="center">
+✨ <i>"Embracing divine purpose, I illuminate paths to success and spiritual growth."</i> ✨  
+<b>Out of Darkness to Light ✝️</b>
+</p>
 
 ---
 
-## 📂 Featured Projects (coming soon)  
-- ✅ **Portfolio Website** (personal brand showcase)  
-- ✅ **Prayer & Verse Reminder App**  
-- ✅ **Skill Learning Platform**  
-- ✅ **Donation DApp (Web3 project)**  
-- ✅ **AI Study Assistant**  
+## 🙋‍♂️ Who I Am
+Visionary • Teacher • Influencer — a software engineer building at the intersection of **Faith × Tech**. I create Web, AI and Web3 solutions that help communities learn, serve, and scale Kingdom impact.
 
 ---
 
-## 🛠 Tech Stack  
-**Frontend:** React, Next.js, Tailwind CSS, Framer Motion  
-**Backend:** Node.js, Express.js  
-**Databases:** MongoDB, PostgreSQL  
-**Web3:** Solidity, ethers.js, Web3.js  
-**AI:** OpenAI API, HuggingFace  
-**Tools:** Git/GitHub, Vercel, Render, Firebase  
+## 🚀 Flagship Work (Pinned Projects)
+- **The-Portfolio** — my personal website & web-books (showcases work, writing, talks).  
+- **AI-Teacher** — an AI training and teaching tool for learning and mentoring.  
+- **The-Ark** — ministry platform for member records, discipleship tracking, spiritual growth metrics.  
+- **Ark-Academy** — learning platform for youth skill acquisition (courses, progress tracking, certificates).  
+- **SEEPAF** — Web3 donation & partnership app (Establishment, Empowerment, Partnership & Aid Fund).
 
 ---
 
-## 📊 GitHub Stats
-![Solomough’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Solomough&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solomough&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Solomough&theme=radical)  
+## 🌱 What I Build
+- Full-stack web apps (React, Next.js)  
+- AI-driven learning tools (LLMs, vector search)  
+- Decentralized giving & transparent donation flows (Web3 wallet + smart contracts)  
+- Teachings, blogs, and tutorials to inspire young believers and developers
 
 ---
 
-## 📫 Let’s Connect  
-- 💼 [LinkedIn](#) *()*  
-- 🐦 [Twitter](https://x.com/moughkaa46415?s=09)  - 🎬 [Instagram](https://www.instagram.com/solomough3?igsh=cGJ1d3JtYzh5M3Ay)  
-
-- 🌍 [Portfolio Website](#) *(coming soon)*  
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
 
 ---
 
-### ⚡ Fun fact:
-I love photography, storytelling, and sharing Kingdom insights through creative digital experiences.
+## 🌐 Connect
+[LinkedIn](#) • [Twitter/X](#https://x.com/moughkaa46415?s=09) • [Instagram](#https://www.instagram.com/solomough3?igsh=cGJ1d3JtYzh5M3Ay) • [Email](mailto: zahemenmoughkaa@gmail.com)
 
-✨ *“I can do all things through Christ who strengthens me.”*  
-Together, let’s build solutions that matter.
+---
+
+> **“I can do all things through Christ that strenghthens me .”** ✝️
