@@ -33,14 +33,14 @@ Visionary • Teacher • Influencer — a software engineer building at the int
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Solomough &show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solomough &layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
 
 ## 🌐 Connect
-[LinkedIn](#) • [Twitter/X](#https://x.com/moughkaa46415?s=09) • [Instagram](#https://www.instagram.com/solomough3?igsh=cGJ1d3JtYzh5M3Ay) • [Email](mailto: zahemenmoughkaa@gmail.com)
+[LinkedIn](#) • [Twitter/X](https://x.com/moughkaa46415?s=09) • [Instagram](https://www.instagram.com/solomough3?igsh=cGJ1d3JtYzh5M3Ay) • [Email](mailto: zahemenmoughkaa@gmail.com)
 
 ---
 
